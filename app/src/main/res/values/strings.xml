@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Беларускі Квіз</string>
+    <string name="head_name">Квіз</string>
+    <string name="right_name">Вы адказалі правільна :)</string>
+    <string name="wrong_name">Вы адказалі неправільна :(</string>
+    <string name="wrong_ch">Не, неправільна</string>
+    <string name="right_ch">Так, правільна</string>
+    <string name="nextQ">Наступнае пытанне</string>
+    <string name="result">Паказаць вынік</string>
+    <string name="restart_name">Пачаць зноў</string>
+    <string name="q1">Беларусь стала незалежнай ў 1990 годзе.</string>
+    <string name="q2">Беларускі рэвалюцыйны дзеяч Тадэвуш Касцюшка - нацыянальны герой ЗША.</string>
+    <string name="q3">Беларусь - прэзідэнтска-парламенцкая рэспубліка.</string>
+    <string name="q4">Аляксандр Саладуха - папулярны беларускі палітык.</string>
+    <string name="q5">Напалеон Орда - знакаміты беларускі мастак.</string>
+</resources>
